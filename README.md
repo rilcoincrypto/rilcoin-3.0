@@ -1,4 +1,4 @@
-# rilcoin3.0.1
+# rilcoin 3.0
 New version of Rilcoin, faster, secure and simple
 
 We believe that rilcoin is a cryptocurrency designated to facilitate commercial interaction
