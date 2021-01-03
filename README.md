@@ -5,7 +5,7 @@ We believe that rilcoin is a cryptocurrency designated to facilitate commercial 
 
 Our team has been focused in create the most friendly form of payment
 
-Rilcoin 3.0.1 bring more security and transparency to our users
+Rilcoin 3.0 bring more security and transparency to our users
 
 Additionally we solved the energy problem, been more Eco friendly, with our SPoW consensus
 
