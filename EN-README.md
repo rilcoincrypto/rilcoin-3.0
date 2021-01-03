@@ -13,7 +13,7 @@ SPoW (Subsecuente Proof of Work) will reduce the intensity of power dedicated to
 
 Every node and every wallet will have the option to mine and get rewards based in transactions, without dedicated equipment
 
-Rilcoin 3.0 is open to use  as form of payment in any development, it is universal and doesn't responde to any Goverment or Entity
+Rilcoin 3.0 is open to be used  as form of payment in any development, it is universal and doesn't responde to any Goverment or Entity
 
 Visit us in https://rilcoin.org/
 
