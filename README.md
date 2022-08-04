@@ -1,4 +1,6 @@
 # rilcoin 3.0
+(Spanish version click here https://github.com/rilcoincrypto/rilcoin-3.0/blob/main/ES-README.md)
+
 New version of Rilcoin, faster, secure and simple
 
 We believe that rilcoin is a cryptocurrency designated to facilitate commercial interaction
