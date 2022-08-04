@@ -1,5 +1,5 @@
 # rilcoin-3.0 
-(English readme click here https://github.com/rilcoincrypto/rilcoin-3.0/blob/main/EN-README.md)
+(English readme click here https://github.com/rilcoincrypto/rilcoin-3.0/blob/main/README.md)
 
 Nueva versión de Rilcoin, más rápida, segura y sencilla
 
